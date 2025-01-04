@@ -1,0 +1,49 @@
+nodedef>name VARCHAR,label VARCHAR
+UClTOqr6qe-BmwwXDrcmuEhg,RTSinfo
+UCWSND7QtJGUT3TLX1wtk3eg,korat kama Tv
+UC-sReNGkfXCgjF7NYj1aswQ,Thinking Africa
+UCCCPCZNChQdGa9EkATeye4g,FRANCE 24
+UCXrQcA_W0gh3scPu1aB-AVQ,Alain Foka Officiel
+UCHzwWrqSp5ttxMIQq1WRzXA,Ariane Mafo
+UCZl9utbYlPMssMhgrGUqXZA,RTB - Radiodiffusion Télévision du Burkina
+UCvUeiaHmieLThjRRz7RHMqQ,ONU Sahel
+UCW2QcKZiU8aUGg4yxCIditg,euronews (en français)
+UCzKH70qfN_yuXq3s91fdwmg,TV5MONDE Info
+UC3WJRuCuDq8mzw_Mhtocj6g,2MVision L Actualité en Mauritanie
+UCg_snQ6DxQghhZivyUSoqPw,abouTana officiel 
+UCWJrzDtkdESRI90A0crOOFw,African Heroes
+UC_eWeRM1TRlh2_g1Ga2q8Lg,UNICEF Niger
+UCzMvvJyKqhtjDdMhKS2urTg,LOU XEW TV 
+UCfZVeQQhDxfIbCrwZOQbwzg,GO PAGA
+UCuCLbG9shQ2FZnzSwdw0ysg,Aice info
+UCay5TjRgVCUZSFxOdLnIhfQ,JVE NIGER
+UCHX25lRwPoN7yo-WDZ0nKxQ,Lumière tv
+UCuv3258e5KtTpAVUxX4Tl5A,Tidiane Kirakoya
+UCGYE6-D0--78oXa4wDiOk6g,Le360
+UCXwDLMDV86ldKoFVc_g8P0g,BFMTV
+UCxMBIeXMgmI8oEuHuKJGDeQ,Lafe faso
+UCjQhbTQdP7Hg0CJKXj_-7-g,KOBOUROU TV AFRICA OFFICIEL
+UC25EuGAePOPvPrUA5cmu3dQ,africanews (en français)
+UCr5mYIyqS_edz_NKJdDdGnQ,SAHEL INFO TV 
+UCiTDvAp4uP-fMSW_WTJt4Zw,OBED EMMANUEL 
+UCh9amBmYkz76KZA04fushEA,Aboubacar Goube
+UCQGCy6eqcvBvymdqG-tY8fg,Test RJS
+UC6m-gGUzdiRJk2HcuNc9cNA,Kayes BA info plus
+UC4a8bTdux8HEZwM3Ysl_kFA,Sahel Vision
+UCyEiKVci7fwWb_gbnKMF7dA,Droit Libre TV
+UC5hKGihDzlEnmpX7CL_b0yw,Tarmac
+UCGZvyLj_S2zHrWKen4Npfkw,VOA Afrique
+UCn1wkwjIGeOUZu25Sr6mLag,ajds-sahel
+UC3S5RNpVUsBeiR4iWA0kQVQ,MAE TV
+UCZcb6wCzKjJdMQ8MmsvcfTw,Les Haut-Parleurs
+UCiqevyDQcC2Sde4j_2Y2w1w,Radio Jeunesse Sahel
+UC4ZUFvLSf885LInJKC29bng,Sokoroni Média
+UCArsB5-yhIkssCxa5txn5Xw,Actu revue par Yingping
+UCd9ByfWCj6tbVClu1F7URzA,Logbo Elisabeth
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+UCCCPCZNChQdGa9EkATeye4g,UCCCPCZNChQdGa9EkATeye4g,2,false
+UCXrQcA_W0gh3scPu1aB-AVQ,UCXrQcA_W0gh3scPu1aB-AVQ,1,false
+UCCCPCZNChQdGa9EkATeye4g,UCyEiKVci7fwWb_gbnKMF7dA,1,false
+UCW2QcKZiU8aUGg4yxCIditg,UCZcb6wCzKjJdMQ8MmsvcfTw,1,false
+UCzKH70qfN_yuXq3s91fdwmg,UCXwDLMDV86ldKoFVc_g8P0g,1,false
+UCzKH70qfN_yuXq3s91fdwmg,UCr5mYIyqS_edz_NKJdDdGnQ,1,false

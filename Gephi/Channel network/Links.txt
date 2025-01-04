@@ -1,0 +1,30 @@
+CIRAD
+
+ID: UCTRMqbMZ8Wm8ZAA0DGb8lw
+Depth: 2
+Channel link: https://www.youtube.com/@LeCIRAD
+
+
+Afrique Media News
+
+ID: UCOBMhI7TtRLTAGpcTjNvYCw
+Depth: 1
+Channel link: https://www.youtube.com/@afriquemediatv/
+
+
+Essor Mali
+
+ID: UCDFRq6tFwVyfQbYygEfkMOQ
+Depth: 1
+Channel link: https://www.youtube.com/@Lessor-tv
+
+
+International Crisis Group
+
+ID: UCj015l-Gu66iB80-X_sr9tw
+Depth: 1
+Channel link: https://www.youtube.com/user/crisisgroup
+
+Afrique Media News + Essor Mali + International Crisis Group
+
+ID seeds: 	UCj015l-Gu66iB80-X_sr9tw,UCDFRq6tFwVyfQbYygEfkMOQ, UCOBMhI7TtRLTAGpcTjNvYCw
