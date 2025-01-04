@@ -1,4 +1,4 @@
-# Réseaux d'Interactions dans les commentaires YouTube
+# Réseaux d'interactions dans les commentaires YouTube
 
 Ce dossier contient des réseaux basés sur les interactions dans les sections de commentaires YouTube.
 
