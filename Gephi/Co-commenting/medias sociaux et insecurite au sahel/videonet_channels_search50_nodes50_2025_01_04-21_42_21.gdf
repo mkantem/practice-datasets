@@ -1,0 +1,44 @@
+nodedef>name VARCHAR,label VARCHAR
+UCOBMhI7TtRLTAGpcTjNvYCw,Afrique Média
+UC3mWKwJb3qRVfaoPPX-dexg,AFRIKA TV NETWORK
+UCOE_zfHmou6nrMBHHNsaneg,Le HCR
+UCGZvyLj_S2zHrWKen4Npfkw,VOA Afrique
+UClyko8kxR56t2-vexQgERJQ,Partners West Africa Senegal Senegal
+UCzKH70qfN_yuXq3s91fdwmg,TV5MONDE Info
+UCqEk9JhLAynCslam_YcN9vw,Voxafrica Panafrican Bilingual
+UCXrQcA_W0gh3scPu1aB-AVQ,Alain Foka Officiel
+UCYpRDnhk5H8h16jpS84uqsA,Le Monde
+UCn4PikW80I8PNBQvk618iig,Journal du Cameroun TV
+UCKGt5yBk6ooc5m7qC9jMJLg,Maliactu.net
+UCTItQw_aTIIt1i8ysgYMH3w,Ministère de l Europe et des Affaires étrangères
+UC50uCdUubc04xXZz7bqv5ng,Investigations et Enquêtes
+UCCCPCZNChQdGa9EkATeye4g,FRANCE 24
+UC8G5QnUSB0hd7xA0LMg8Yeg,SaheliaLink
+UC25EuGAePOPvPrUA5cmu3dQ,africanews (en français)
+UCm4fSpMpPIZ9z6KHoezLUAg,RFI
+UC4VOE8jQPWUPp4PpNK8zhIg,Pascal Boniface
+UCfhEtHx351sCTXI7BDNtt1g,Policy Center for the New South
+UCbn8O8WwMeoZsPRxgumfvAQ,École normale supérieure - PSL
+UC-ImDz1aCgVBaT1Y971Ae-Q,Geneva Graduate Institute
+UChfGNSbPGbnnwvaZPpmGiHQ,Institut d études internationales de Montréal
+UCwfVJ9CpMNVPkwR7gBsIwcw,Mâh-Rabiou DANSOUNSSOU
+UCT67YOMntJxfRnO_9bXDpvw,Le Média
+UCTBUSS40t9LT-wya80K7BcQ,TIMBUKTU INSTITUTE
+UChRequgPB84zMsniErOnTTg,BF1 TELEVISION
+UCZcb6wCzKjJdMQ8MmsvcfTw,Les Haut-Parleurs
+UCli7mxfNrS0BBtlo5DwCt8Q,Canal2 International
+UCwCBxhtejDiqTy2_AyExonQ,Média sahel
+UCPJiG93jS3OEnvw5wIukc4Q,The Centre for Humanitarian Dialogue
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+UCzKH70qfN_yuXq3s91fdwmg,UCzKH70qfN_yuXq3s91fdwmg,1,false
+UCqEk9JhLAynCslam_YcN9vw,UCXrQcA_W0gh3scPu1aB-AVQ,1,false
+UCqEk9JhLAynCslam_YcN9vw,UCOBMhI7TtRLTAGpcTjNvYCw,1,false
+UCYpRDnhk5H8h16jpS84uqsA,UC50uCdUubc04xXZz7bqv5ng,1,false
+UCYpRDnhk5H8h16jpS84uqsA,UCOBMhI7TtRLTAGpcTjNvYCw,1,false
+UCTItQw_aTIIt1i8ysgYMH3w,UCCCPCZNChQdGa9EkATeye4g,1,false
+UCOBMhI7TtRLTAGpcTjNvYCw,UCOBMhI7TtRLTAGpcTjNvYCw,3,false
+UC50uCdUubc04xXZz7bqv5ng,UC50uCdUubc04xXZz7bqv5ng,1,false
+UCzKH70qfN_yuXq3s91fdwmg,UC25EuGAePOPvPrUA5cmu3dQ,1,false
+UC4VOE8jQPWUPp4PpNK8zhIg,UC25EuGAePOPvPrUA5cmu3dQ,1,false
+UC4VOE8jQPWUPp4PpNK8zhIg,UCZcb6wCzKjJdMQ8MmsvcfTw,1,false
+UCOBMhI7TtRLTAGpcTjNvYCw,UCqEk9JhLAynCslam_YcN9vw,1,false
